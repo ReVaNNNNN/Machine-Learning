@@ -29,9 +29,6 @@ accuracy = accuracy_score(pred, labels_test)
 
 print "Accuracy of SVM is: ", accuracy
 
-
-
-
 #########################################################
 ### your code goes here ###
 
