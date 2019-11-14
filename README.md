@@ -5,6 +5,6 @@ Starter project code for students taking Udacity, introducing to a world of Mach
 
 Algorithms:
 
-* Naive Bayes
-* SVM
-* Decision tree
+- Naive Bayes
+- SVM
+- Decision tree
